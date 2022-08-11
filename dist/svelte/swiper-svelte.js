@@ -1,5 +1,5 @@
 /**
- * Swiper Svelte 8.3.2
+ * Swiper Svelte 8.3.3
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * https://swiperjs.com
  *

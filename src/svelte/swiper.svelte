@@ -1,3 +1,5 @@
+<svelte:options tag="swiper-swiper" />
+
 <script>
   import { onMount, onDestroy, afterUpdate, createEventDispatcher, tick, setContext } from 'svelte';
   import Swiper from 'swiper';

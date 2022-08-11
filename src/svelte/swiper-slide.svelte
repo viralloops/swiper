@@ -1,3 +1,5 @@
+<svelte:options tag="swiper-slide" />
+
 <script>
   import { onMount, onDestroy, beforeUpdate, afterUpdate, setContext, getContext } from 'svelte';
   import { uniqueClasses } from '../components-shared/utils.js';

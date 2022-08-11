@@ -178,8 +178,5 @@
   "dependencies": {
     "dom7": "^4.0.4",
     "ssr-window": "^4.0.2"
-  },
-  "lint-staged": {
-    "*.{js,svelte,jsx}": "eslint --cache --fix"
   }
 }
